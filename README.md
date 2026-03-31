@@ -1,4 +1,6 @@
 Types-of-loops
+
+
 In this experiment, we studied and implemented different types of loops in Python to perform repetitive tasks efficiently. The experiment mainly focused on the while loop and for loop, along with control statements like break and continue.
 
 First, we learned the while loop, which executes a block of code repeatedly as long as a specified condition is true. Using the while loop, we performed several tasks such as printing numbers from 1 to 5, printing numbers from 1 to N, calculating the factorial of a number, generating the Fibonacci series, reversing a number, checking whether a number is a palindrome, and counting the number of digits in a given number.
